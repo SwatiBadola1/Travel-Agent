@@ -1,12 +1,18 @@
 # ☁️ IBM Cloud Lite Services
-IBM Cloud Lite is a free tier offering from IBM Cloud that allows developers to build and deploy cloud-native applications at no cost (with resource limitations). It is ideal for prototyping AI/ML applications.| Service                             | Description               | Purpose in Project                                                                                        |
-| ----------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Watson Assistant**                | Conversational AI service | Facilitates interactive user experiences with natural language.                                           |
-| **IBM Cloud Functions**             | Serverless compute engine | Executes business logic like fetching weather, triggering itinerary generation, or calling external APIs. |
-| **IBM Cloudant**                    | NoSQL JSON database       | Stores user data, preferences, travel history, and generated itineraries.                                 |
-| **IBM Weather Company Data (Lite)** | Weather API               | Provides real-time and forecasted weather used in trip planning.                                          |
-| **IBM App ID (Optional)**           | Authentication service    | Manages user login and session data securely.                                                             |
-| **Watsonx.ai Studio**               | AI development studio     | Used to prompt, fine-tune, and deploy foundation models like Granite.                                     |
+IBM Cloud Lite is the free-tier offering from IBM Cloud, providing developers, students, and small teams with access to core IBM cloud services at no cost.
+
+It is ideal for:
+
+Prototyping and experimentation
+
+Low-resource AI/ML applications
+
+Education and training
+
+Entry-level cloud development
+
+💡 Key Benefit: No credit card required, and no expiration.
+                                                           
 # 🧠 Natural Language Processing (NLP) Technology
 Natural Language Processing (NLP) is the core enabler behind the Travel Planner Agent’s intelligence. It allows the system to understand, interpret, and generate human-like language responses, making interactions intuitive and human-friendly.
 
